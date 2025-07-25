@@ -14,3 +14,5 @@ gradle.properties
 .externalNativeBuild
 .cxx
 local.properties
+.md
+.bat
